@@ -1,1 +1,4 @@
 .env
+
+#downloads folder and everything in it
+downloads/*

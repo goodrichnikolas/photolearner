@@ -1,2 +1,4 @@
 replicate
 requests
+spacy
+python-dotenv
